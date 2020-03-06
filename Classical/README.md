@@ -1,1 +1,1 @@
-Link : https://www.spoj.com/problems/classical/
+LINK : https://www.spoj.com/problems/classical/
