@@ -4,6 +4,6 @@
 
 ***My solution to some problems listed on Sphere Online Judge (SPOJ)***
 
-:link: ***Find the problems here - https://www.spoj.com/***
+:link: ***Check out the problems here - https://www.spoj.com/***
 
 ***My Profile Link - www.spoj.com/users/tridib_2003***
