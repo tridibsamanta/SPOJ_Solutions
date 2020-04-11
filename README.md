@@ -6,4 +6,3 @@
 
 :link: ***Check out the problems here - https://www.spoj.com/***
 
-***My Profile Link - www.spoj.com/users/tridib_2003***
