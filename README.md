@@ -4,5 +4,5 @@
 
 ***My solution to some problems listed on Sphere Online Judge (SPOJ)***
 
-:link: ***Check out the problems -*** [Click here](https://www.spoj.com/).
+:link: ***Check out the problems -*** [Click here](https://www.spoj.com/)
 
